@@ -11,6 +11,7 @@ public class LoginTests extends BaseClass {
     public static void login_001() throws Exception {
 
         writeLogsToFile("*****  starting the test case Login_001*****");
+        writeLogsToFile("*****  adding from IDE starting the test case Login_001*****");
         boolean result = CommonUtils.loginToSaucelabApp();
         writeLogsToFile("**** launched the app now trying to login*****");
 
