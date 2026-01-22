@@ -9,7 +9,7 @@ public class LoginTests extends BaseClass {
 
     @Test(priority = 1)
     public static void login_001() throws Exception {
-
+        writeLogsToFile("adding one line directly from git hub");
         writeLogsToFile("*****  starting the test case Login_001*****");
         writeLogsToFile("*****  added from git hub starting the test case Login_001*****");
         boolean result = CommonUtils.loginToSaucelabApp();
