@@ -1,0 +1,11 @@
+{
+  "LoginPage": {
+    "username": "//*[@id='username']",
+    "password": "//*[@id='password']",
+    "loginButton": "//*[@id='loginBtn']"
+  },
+  "HomePage": {
+    "welcomeText": "//h1[text()='Welcome']",
+    "logoutButton": "//*[@id='logout']"
+  }
+}

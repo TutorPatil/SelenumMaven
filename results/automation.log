@@ -1,0 +1,8 @@
+2026-01-11 00:20:20 [main] INFO  com.selenium.base.BaseClass - *****  starting the test case Login_001*****
+2026-01-11 00:20:25 [main] INFO  com.selenium.base.BaseClass - **** launched the app now trying to login*****
+2026-01-11 00:20:25 [main] INFO  com.selenium.base.BaseClass - **** successfully logged in to the app*****
+2026-01-11 00:20:25 [main] INFO  com.selenium.base.BaseClass - *****  ending the test case Login_001*****
+2026-01-11 00:20:56 [main] INFO  com.selenium.base.BaseClass - *****  starting the test case Login_001*****
+2026-01-11 00:21:01 [main] INFO  com.selenium.base.BaseClass - **** launched the app now trying to login*****
+2026-01-11 00:21:01 [main] INFO  com.selenium.base.BaseClass - **** successfully logged in to the app*****
+2026-01-11 00:21:01 [main] INFO  com.selenium.base.BaseClass - *****  ending the test case Login_001*****

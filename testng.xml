@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Tests">
+
+    <test name="LoginAndCart">
+       <!-- <classes>
+            <class name="com.saucelab.tests.LoginTests"/>
+            <class name="com.saucelab.tests.CartTests"/>
+        </classes> -->
+        <packages>
+            <package name="com.selenium.tests"/>
+        </packages>
+    </test>
+
+</suite>

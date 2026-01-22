@@ -1,0 +1,5 @@
+Capturing the logs for the current run 
+*****  starting the test case Login_001*****
+**** launched the app now trying to login*****
+**** successfully logged in to the app*****
+*****  ending the test case Login_001*****
