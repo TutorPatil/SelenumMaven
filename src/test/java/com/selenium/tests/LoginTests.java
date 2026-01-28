@@ -21,6 +21,7 @@ public class LoginTests extends BaseClass {
         writeResultsToFile("login_001", "Pass");
         captureScreenShot("login_001");
         writeLogsToFile("*****  ending the test case Login_001*****");
+        writeLogsToFile("*****  ending the test case Login_001*****");
         readDataFromExcelFile();
     }
 
